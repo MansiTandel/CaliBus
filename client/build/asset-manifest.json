@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b35e525.css",
+    "main.js": "/static/js/main.e5c4c306.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/buspic1.png": "/static/media/buspic1.7d0acfebe85cc0762459.png",
+    "index.html": "/index.html",
+    "main.5b35e525.css.map": "/static/css/main.5b35e525.css.map",
+    "main.e5c4c306.js.map": "/static/js/main.e5c4c306.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b35e525.css",
+    "static/js/main.e5c4c306.js"
+  ]
+}

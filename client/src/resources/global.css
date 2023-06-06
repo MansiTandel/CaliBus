@@ -1,0 +1,147 @@
+/* heights and widths*/
+
+.h-screen{
+    height:100vh;
+}
+
+.w-400{
+    width:400px;
+}
+/*  input css*/
+input, select{
+    height: 40px;
+    width: 100%;
+    border: 2px solid gray;
+    padding-left: 20px;
+}
+
+.ant-form-item{
+    margin: 0 !important;
+}
+/* for parent card */
+
+.card{
+    border: 2px solid gray;
+    box-shadow: 0 0 1px rgb(208, 204, 204);
+    border-radius: 0 !important;
+}
+/*text-sizes*/
+.text-2xl{
+    font-size: 50px !important;
+}
+.text-xl{
+    font-size: 25px !important;
+}
+.text-lg{
+    font-size: 20px !important;
+}
+.text-md{
+    font-size: 18px !important;
+}
+
+.secondary-text{
+    color: var(--secondary) !important;
+}
+
+.primary-text{
+    color: var(--primary) !important;
+}
+
+.underline{
+   text-decoration: underline;
+   cursor:pointer; 
+}
+/*Buttons*/
+
+.primary-btn{
+    background-color:var(--primary) !important;
+    color: white;
+    border:none;
+    padding: 10px 20px;
+    cursor:pointer;
+    height: 40px;
+}
+
+.secondary-btn{
+    background-color:var(--secondary) !important;
+    color: white;
+    border:none;
+    padding: 10px 20px;
+    cursor:pointer;
+    height: 40px;
+}
+
+.outlined{
+    border: 2px solid var(--primary) !important;
+    color: var(--primary) !important;
+    background-color: white !important;
+}
+.disabled-btn{
+    background-color:gray !important;
+    color: white;
+    border:none !important;
+    padding: 10px 20px;
+    border-radius: 0 !important;
+    cursor:not-allowed;
+    height: 40px;
+}
+
+button{
+    border-radius: 0 !important;
+}
+
+/*anchor tag*/
+a{
+    text-decoration: none !important;
+    color: var(--primary) !important;
+}
+i{
+    cursor:pointer;
+    font-size: 25px;
+}
+h1, p{
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/*spinner or Loaser*/
+.spinner-parent{
+    position:absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.505);
+    z-index: 10000;
+}
+.spinner-border{
+    color:white !important;
+    height:80px !important;
+    width: 80px !important;
+}
+
+table{
+    
+    border: 1px solid rgb(186, 182, 182);
+}
+
+.bg-blur {
+    position: relative;
+  }
+  
+.bg-blur::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images2/buspic1.png');
+    background-size: cover;
+    background-position: center;
+    filter: blur(5px); /* */
+    z-index: -1;
+  }
