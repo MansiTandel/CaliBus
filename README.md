@@ -1,5 +1,5 @@
 # CaliBus
-CaliBus : A bus Ticket booking app using MERN Stack
+CaliBus : A bus Ticket booking app using MERN Stack for the state of California.
 
 Deployment link: https://long-gray-bison-garb.cyclic.app/login
 
