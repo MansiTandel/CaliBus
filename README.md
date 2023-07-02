@@ -19,3 +19,8 @@ Screenshots:
 
 ![register](https://github.com/MansiTandel/CaliBus/assets/97576290/f3571952-c707-4948-8ed6-9e0478db42f8)
 
+3) User Homepage:
+4) BookNow component:
+5) Bookings Page:
+7) Admin Users Page:
+
